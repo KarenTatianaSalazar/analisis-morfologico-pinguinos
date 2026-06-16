@@ -6,7 +6,7 @@ Este repositorio contiene un caso de estudio enfocado en la relación proporcion
 
 Puedes abrir, revisar y ejecutar todo el código de este análisis de forma interactiva haciendo clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KarenTatianaSalazar/analisis-morfologico-pinguinos/blob/main/Analisis_Morfologico_pinguinos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KarenTatianaSalazar/analisis-morfologico-pinguinos/blob/main/Analisis_morfologico_pinguinos.ipynb)
 
 ---
 
